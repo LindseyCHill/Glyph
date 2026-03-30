@@ -1,0 +1,16 @@
+# Glyph — Python dependencies
+# Install with: pip install -r requirements.txt
+# Then run once: python -m nltk.downloader punkt stopwords wordnet omw-1.4
+
+# Core NLP
+nltk
+
+# PDF text extraction (two-column layout support built-in)
+pdfplumber
+
+# HTML parsing — uses built-in html.parser, no lxml needed
+beautifulsoup4
+
+# Optional: for LLM answer layer
+# Requires Ollama running separately: https://ollama.com
+# No Python package needed — Glyph calls Ollama via subprocess
