@@ -53,6 +53,10 @@ Glyph is a desktop question-answering system that retrieves and synthesizes answ
 ---
 
 ## 🚀 Demo
+### Interface Screenshot
+
+![Glyph Question-Answering Interface](screenshots/ui_screenshot.png)
+*Example query: "What are the two classes?" showing all four answer types from The Communist Manifesto*
 
 ### Example Queries
 
